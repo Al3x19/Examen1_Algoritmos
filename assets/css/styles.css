@@ -1,0 +1,31 @@
+body{
+    background-color:#1c1c1c;
+    color: #ffffff;
+    font-family: 'carrois Gothic SC', sans;
+    text-align: center;
+    margin: 0%;
+    padding: 0%;
+}
+.contenido{
+    max-width: 900px;
+    margin: 50px;
+    /* border: solid 2px aqua; */
+}
+h1{
+    color: #ffcc00;
+}
+a{
+    color: #ffcc00;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: aqua;
+}
+p{
+    margin-bottom: 20px;
+}
+.hastag{
+    color: #00cc66;
+}
